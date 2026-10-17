@@ -1,0 +1,101 @@
+DocumentID,Title,Author,PublicationYear,Abstract,Keywords,Citations
+1,Machine Learning - Study 1,A. Kumar,2018,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",73
+2,Data Structures - Study 2,S. Rao,2019,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",33
+3,Artificial Intelligence - Study 3,P. Sharma,2020,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",126
+4,Database Systems - Study 4,R. Patel,2021,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",125
+5,Natural Language Processing - Study 5,M. Singh,2022,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",323
+6,Computer Networks - Study 6,K. Reddy,2023,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",298
+7,Information Retrieval - Study 7,N. Gupta,2024,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",170
+8,Deep Learning - Study 8,V. Nair,2025,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",121
+9,Cyber Security - Study 9,T. Das,2026,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",242
+10,Cloud Computing - Study 10,L. Mehta,2018,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",297
+11,Machine Learning - Study 11,A. Kumar,2019,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",236
+12,Data Structures - Study 12,S. Rao,2020,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",247
+13,Artificial Intelligence - Study 13,P. Sharma,2021,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",137
+14,Database Systems - Study 14,R. Patel,2022,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",59
+15,Natural Language Processing - Study 15,M. Singh,2023,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",111
+16,Computer Networks - Study 16,K. Reddy,2024,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",190
+17,Information Retrieval - Study 17,N. Gupta,2025,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",272
+18,Deep Learning - Study 18,V. Nair,2026,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",97
+19,Cyber Security - Study 19,T. Das,2018,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",27
+20,Cloud Computing - Study 20,L. Mehta,2019,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",82
+21,Machine Learning - Study 21,A. Kumar,2020,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",89
+22,Data Structures - Study 22,S. Rao,2021,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",76
+23,Artificial Intelligence - Study 23,P. Sharma,2022,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",153
+24,Database Systems - Study 24,R. Patel,2023,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",201
+25,Natural Language Processing - Study 25,M. Singh,2024,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",198
+26,Computer Networks - Study 26,K. Reddy,2025,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",108
+27,Information Retrieval - Study 27,N. Gupta,2026,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",337
+28,Deep Learning - Study 28,V. Nair,2018,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",62
+29,Cyber Security - Study 29,T. Das,2019,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",285
+30,Cloud Computing - Study 30,L. Mehta,2020,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",281
+31,Machine Learning - Study 31,A. Kumar,2021,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",11
+32,Data Structures - Study 32,S. Rao,2022,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",44
+33,Artificial Intelligence - Study 33,P. Sharma,2023,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",297
+34,Database Systems - Study 34,R. Patel,2024,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",275
+35,Natural Language Processing - Study 35,M. Singh,2025,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",285
+36,Computer Networks - Study 36,K. Reddy,2026,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",173
+37,Information Retrieval - Study 37,N. Gupta,2018,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",316
+38,Deep Learning - Study 38,V. Nair,2019,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",332
+39,Cyber Security - Study 39,T. Das,2020,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",112
+40,Cloud Computing - Study 40,L. Mehta,2021,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",239
+41,Machine Learning - Study 41,A. Kumar,2022,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",200
+42,Data Structures - Study 42,S. Rao,2023,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",332
+43,Artificial Intelligence - Study 43,P. Sharma,2024,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",24
+44,Database Systems - Study 44,R. Patel,2025,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",214
+45,Natural Language Processing - Study 45,M. Singh,2026,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",144
+46,Computer Networks - Study 46,K. Reddy,2018,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",44
+47,Information Retrieval - Study 47,N. Gupta,2019,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",185
+48,Deep Learning - Study 48,V. Nair,2020,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",285
+49,Cyber Security - Study 49,T. Das,2021,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",39
+50,Cloud Computing - Study 50,L. Mehta,2022,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",259
+51,Machine Learning - Study 51,A. Kumar,2023,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",129
+52,Data Structures - Study 52,S. Rao,2024,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",142
+53,Artificial Intelligence - Study 53,P. Sharma,2025,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",320
+54,Database Systems - Study 54,R. Patel,2026,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",75
+55,Natural Language Processing - Study 55,M. Singh,2018,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",51
+56,Computer Networks - Study 56,K. Reddy,2019,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",291
+57,Information Retrieval - Study 57,N. Gupta,2020,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",26
+58,Deep Learning - Study 58,V. Nair,2021,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",302
+59,Cyber Security - Study 59,T. Das,2022,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",119
+60,Cloud Computing - Study 60,L. Mehta,2023,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",162
+61,Machine Learning - Study 61,A. Kumar,2024,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",258
+62,Data Structures - Study 62,S. Rao,2025,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",299
+63,Artificial Intelligence - Study 63,P. Sharma,2026,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",232
+64,Database Systems - Study 64,R. Patel,2018,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",248
+65,Natural Language Processing - Study 65,M. Singh,2019,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",217
+66,Computer Networks - Study 66,K. Reddy,2020,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",41
+67,Information Retrieval - Study 67,N. Gupta,2021,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",43
+68,Deep Learning - Study 68,V. Nair,2022,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",243
+69,Cyber Security - Study 69,T. Das,2023,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",24
+70,Cloud Computing - Study 70,L. Mehta,2024,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",65
+71,Machine Learning - Study 71,A. Kumar,2025,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",170
+72,Data Structures - Study 72,S. Rao,2026,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",42
+73,Artificial Intelligence - Study 73,P. Sharma,2018,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",148
+74,Database Systems - Study 74,R. Patel,2019,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",317
+75,Natural Language Processing - Study 75,M. Singh,2020,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",235
+76,Computer Networks - Study 76,K. Reddy,2021,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",194
+77,Information Retrieval - Study 77,N. Gupta,2022,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",134
+78,Deep Learning - Study 78,V. Nair,2023,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",101
+79,Cyber Security - Study 79,T. Das,2024,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",79
+80,Cloud Computing - Study 80,L. Mehta,2025,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",144
+81,Machine Learning - Study 81,A. Kumar,2026,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",264
+82,Data Structures - Study 82,S. Rao,2018,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",79
+83,Artificial Intelligence - Study 83,P. Sharma,2019,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",259
+84,Database Systems - Study 84,R. Patel,2020,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",150
+85,Natural Language Processing - Study 85,M. Singh,2021,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",107
+86,Computer Networks - Study 86,K. Reddy,2022,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",20
+87,Information Retrieval - Study 87,N. Gupta,2023,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",79
+88,Deep Learning - Study 88,V. Nair,2024,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",208
+89,Cyber Security - Study 89,T. Das,2025,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",46
+90,Cloud Computing - Study 90,L. Mehta,2026,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",109
+91,Machine Learning - Study 91,A. Kumar,2018,Machine learning algorithms improve prediction and classification using data.,"machine learning, prediction, classification, data",47
+92,Data Structures - Study 92,S. Rao,2019,"Data structures organize information for efficient storage, searching, and processing.","data structures, algorithms, searching, sorting",220
+93,Artificial Intelligence - Study 93,P. Sharma,2020,"Artificial intelligence enables systems to perform reasoning, learning, and decision making.","artificial intelligence, reasoning, learning, agents",258
+94,Database Systems - Study 94,R. Patel,2021,"Database systems provide efficient storage, indexing, querying, and retrieval of information.","database, indexing, query, storage",284
+95,Natural Language Processing - Study 95,M. Singh,2022,"Natural language processing analyzes text, keywords, phrases, and document meaning.","nlp, text, keyword, language",277
+96,Computer Networks - Study 96,K. Reddy,2023,"Computer networks enable communication, routing, resource sharing, and distributed services.","network, routing, communication, protocols",194
+97,Information Retrieval - Study 97,N. Gupta,2024,"Information retrieval focuses on efficient document searching, indexing, and ranking.","information retrieval, search, indexing, ranking",104
+98,Deep Learning - Study 98,V. Nair,2025,Deep learning uses neural networks to learn representations from large datasets.,"deep learning, neural networks, training, prediction",187
+99,Cyber Security - Study 99,T. Das,2026,"Cyber security protects digital resources using authentication, encryption, and threat detection.","cyber security, encryption, authentication, threats",211
+100,Cloud Computing - Study 100,L. Mehta,2018,"Cloud computing provides scalable computing, storage, and distributed processing resources.","cloud, distributed systems, storage, scalability",79
